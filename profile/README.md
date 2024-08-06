@@ -6,8 +6,6 @@ This organization was created to host the projects of Sharqiyah Gets Creative Ev
 
 ## Projects
 
----
-
 ### --Sharqiyah Gets Creative 2024
 
 > Work in progress: will be available soon.
@@ -68,8 +66,6 @@ A python script to extract information from an excel sheet about google map loca
 A typescript script to import data from the extracted json file to firebase firestore.
 
 - Source Code: [sharqiyah-gets-creative/ts-data-importer](https://github.com/sharqiyah-gets-creative/ts-data-importer)
-
----
 
 ## Contributing
 
