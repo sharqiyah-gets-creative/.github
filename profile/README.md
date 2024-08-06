@@ -75,6 +75,4 @@ We are open to contributions, feel free to fork the project and submit a pull re
 
 If you find a bug, please open an issue in the related repository.
 
----
-
 ## Thanks ❤️
