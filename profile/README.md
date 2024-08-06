@@ -9,6 +9,7 @@ This organization was created to host the projects of Sharqiyah Gets Creative Ev
 ### --Sharqiyah Gets Creative 2024
 
 > Work in progress: will be available soon.
+
 > Spoiler: we will be using Expo, React Native, NextJS and AppWrite.
 
 ---
